@@ -3,3 +3,6 @@ Collection of my answers for LeetCode problems. They may not be the best, but sl
 
 ## Organization
 I divided my answers into folders for each level and into subfolders for each set of problems. E.g.: Easy problems from 1 to 100 inside Easy/1-100.
+
+## Disclaimer
+For now, most of the codes don't have descriptions/commentaries, but I'll be adding them soon.
